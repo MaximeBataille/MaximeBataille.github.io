@@ -743,6 +743,26 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #465052;
 }
+.cid-snSkdIyZhw {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #68e0c8;
+}
+.cid-snSkdIyZhw SPAN {
+  color: #ffffff;
+}
+.cid-snSkxcoDO5 {
+  background: #ffffff;
+}
+.cid-snSkxcoDO5 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-snSkxcoDO5 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s4It9vmTtA {
   padding-top: 30px;
   padding-bottom: 30px;
