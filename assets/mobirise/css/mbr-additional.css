@@ -743,6 +743,27 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #465052;
 }
+.cid-sqMczS5WlH {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #68e0c8;
+}
+.cid-sqMczS5WlH SPAN {
+  color: #ffffff;
+}
+.cid-sqMd43hvDE {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-sqMd43hvDE .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sqMd43hvDE .video-block {
+    width: 100% !important;
+  }
+}
 .cid-snSkdIyZhw {
   padding-top: 45px;
   padding-bottom: 45px;
